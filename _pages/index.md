@@ -7,6 +7,10 @@ permalink: /
 # 名前：Yuto
 
 ## 趣味
+### 　　ゲーム：OCTOPATH TRAVELER 2 
+####      SQUARE ENIX のHD-2D　のゲーム 
+###    音楽：ゲームやアニメのBGM
+####
 
 
 
