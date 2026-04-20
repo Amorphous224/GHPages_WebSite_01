@@ -7,10 +7,15 @@ permalink: /
 # 名前：Yuto
 
 ## 趣味
-### 　　ゲーム：OCTOPATH TRAVELER 2 
-####      SQUARE ENIX のHD-2D　のゲーム 
-###    音楽：ゲームやアニメのBGM
-####
+## 　　ゲーム：OCTOPATH TRAVELER 2 
+###      SQUARE ENIX のコマンドRPG
+###       HD-2Dのグラフィック　素晴らしいBGMが魅力　 
+##    音楽：ゲームやアニメのBGM
+### 　　　　好きな作曲家　
+####    　　澤野弘之　　　　　：進撃の巨人やガンダムシリーズ、Fateシリーズなどアニメの作曲家として非常に有名
+####    　　西木康智　　　　　：OCTOPATH TRAVELERシリーズの作曲家　幅広い種類の音楽を制作
+#### 　　　　Evan Call　　　：ヴァイオレットエヴァガーデンや葬送のフリーレンの楽曲を制作
+####    　　Kevin Penkin　：メイドインアビスや薬屋のひとりごとの楽曲を制作　主に
 
 
 
